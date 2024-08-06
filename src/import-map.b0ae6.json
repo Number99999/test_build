@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "cc": "./../cocos-js/cc.b530a.js",
+    "wait-for-ammo-instantiation": "./../cocos-js/wait-for-ammo-instantiation.c7c6f.js"
+  }
+}

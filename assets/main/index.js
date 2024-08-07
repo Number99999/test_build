@@ -24,4 +24,3 @@ System.register("chunks:///_virtual/Main.ts",["./rollupPluginModLoBabelHelpers.j
     };
     });
 });
-//# sourceMappingURL=index.js.map
